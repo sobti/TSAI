@@ -1,1 +1,0 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"name":"__init__.py","provenance":[],"collapsed_sections":[],"authorship_tag":"ABX9TyMWb4MITiLW6o2nH02ZfF4r"},"kernelspec":{"name":"python3","display_name":"Python 3"}},"cells":[{"cell_type":"code","metadata":{"id":"SXxC-mTxxBPe","colab_type":"code","colab":{}},"source":[""],"execution_count":0,"outputs":[]}]}
