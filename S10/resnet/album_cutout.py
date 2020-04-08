@@ -1,6 +1,7 @@
 def album_transform(albumentations):
  train_transforms = albumentations.Compose([
                                        albumentations.RandomRotate90(),
+                                       albumentations.Cutout(num_holes=2, max_h_size=1, max_w_size=1,p=.2),
                                        albumentations.HorizontalFlip(),
                                        albumentations.ShiftScaleRotate(shift_limit=0.0625, scale_limit=0.2, rotate_limit=45, p=.2),
                                        #albumentations.GridDistortion(num_steps=5),
