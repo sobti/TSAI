@@ -1,0 +1,288 @@
+"dog-young-dog-small-dog-maltese.jpg31012": {
+    "filename": "dog-young-dog-small-dog-maltese.jpg",
+    "size": 31012,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 154,
+          "y": 86,
+          "width": 153,
+          "height": 209
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  
+  
+  
+  "french-bulldog-summer-smile-joy-160846.jpeg21058": {
+    "filename": "french-bulldog-summer-smile-joy-160846.jpeg",
+    "size": 21058,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 146,
+          "y": 3,
+          "width": 338,
+          "height": 327
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  "pexels-photo (1).jpg24260": {
+    "filename": "pexels-photo (1).jpg",
+    "size": 24260,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 148,
+          "y": 130,
+          "width": 121,
+          "height": 128
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 156,
+          "y": 98,
+          "width": 98,
+          "height": 114
+        },
+        "region_attributes": {
+          "class": "Human"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  
+  "pexels-photo.jpg49921": {
+    "filename": "pexels-photo.jpg",
+    "size": 49921,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 26,
+          "y": 17,
+          "width": 444,
+          "height": 730
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  
+  "pexels-photo-58997.jpeg25572": {
+    "filename": "pexels-photo-58997.jpeg",
+    "size": 25572,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 206,
+          "y": 44,
+          "width": 107,
+          "height": 237
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 372,
+          "y": 2,
+          "width": 68,
+          "height": 123
+        },
+        "region_attributes": {
+          "class": "Human"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  
+  "pexels-photo-59523.jpeg20162": {
+    "filename": "pexels-photo-59523.jpeg",
+    "size": 20162,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 24,
+          "width": 257,
+          "height": 283
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+
+
+
+  "pexels-photo-69372.jpeg16737": {
+    "filename": "pexels-photo-69372.jpeg",
+    "size": 16737,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 66,
+          "y": 56,
+          "width": 181,
+          "height": 252
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  "pexels-photo-128817.jpeg27879": {
+    "filename": "pexels-photo-128817.jpeg",
+    "size": 27879,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 70,
+          "y": 14,
+          "width": 429,
+          "height": 285
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  "pexels-photo-220938.jpeg39833": {
+    "filename": "pexels-photo-220938.jpeg",
+    "size": 39833,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 96,
+          "y": 29,
+          "width": 401,
+          "height": 661
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
+  
+  
+  "pexels-photo-235805.jpeg15380": {
+    "filename": "pexels-photo-235805.jpeg",
+    "size": 15380,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 82,
+          "y": 52,
+          "width": 334,
+          "height": 276
+        },
+        "region_attributes": {
+          "class": "Dog"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  
