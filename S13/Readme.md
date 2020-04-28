@@ -38,9 +38,10 @@ Custom data
 
 2. Copy the contents of 'yolov3-spp.cfg' file to a new file called 'yolov3-custom.cfg' file in the data/cfg folder.
 
-3. Search for 'filters=18' (you should get entries entries). Change 255 to (4+1+(no of class))*3
+3. Search for 'filters=18' (you should get entries entries). Change 18 to (4+1+(no of class))*3
 
 4. Search for 'classes=1' and change all three entries to 'classes=(number of classs to predict)'
+
 Weight
 
-1. Download from: https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0
+1. Download from: https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0 and put it in weight folder(check customdata folder)
