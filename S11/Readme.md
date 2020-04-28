@@ -1,4 +1,9 @@
-Pytorch Implemetation of Cifar - 10 <br />
+Pytorch Implemetation of Cifar - 10 <br /> 
+
+Code: https://github.com/sobti/TSAI/blob/master/S11/resnet_model_album_cam__ocp_90_.ipynb
+
+Custom model : https://github.com/sobti/TSAI/tree/master/S11/resnet
+
 Dataset used - Cifar - 10<br />
 Test Accuracy - 90.53%<br />
 Epocs ran - 24<br />
