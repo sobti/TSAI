@@ -31,6 +31,6 @@ customdata creation:<br/>
       1. For COCO's 80 classes, VOLOv3's output vector has 255 dimensions ( (4+1+80)*3). <br />
       2. Copy the contents of 'yolov3-spp.cfg' file to a new file called 'yolov3-custom.cfg' file in the data/cfg folder.<br />
       3. Search for 'filters=18' (you should get entries entries). Change 255 to  (4+1+(no of class))*3<br />
-      4. Search for 'classes=1' and change all three entries to 'classes=<number of classs to predict>'<br />
+      4. Search for 'classes=1' and change all three entries to 'classes=(number of classs to predict)'<br />
       Weight<br />
       1. Download from: https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0
