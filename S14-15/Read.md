@@ -11,7 +11,7 @@ A. 100 backgrounds images - I have choosen School premises as back ground images
 B. 400k fg_bg images- By randomly placing the FG images on the back ground 20 * 2 times. I have created 400K images that will act as input to model
    <<Check code Masking_Complete.ipynb for refrence>>.
 
-C. 400k depth images-As we have to collect Monocular depth images , I have used a existing model to extract the images. Input to the model is fg_bg images.
+C. 400k depth images-As we have to collect Monocular depth images , I have used a existing model to extract the images. Input to the model is fg_bg images. I have nyu dataset for my prediction.
    400k mask images.
    <<ALl the credit goes to  https://github.com/ialhashim/DenseDepth.git>>
    
