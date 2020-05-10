@@ -1,7 +1,7 @@
 ## Creating Dataset for Depth and Mask Prediction:
 
 To create model for depth and mask , here we are trying to create a custom datset using using 100 forground and 100 back ground images.
-As collecting data from outside is tedious and time consuming , we have restrited ourself to existing model( to create depth images) and 
+As collecting data from outside is tedious and time consuming , we have restricted ourself to existing model( to create depth images) and 
 python codes to ovelay FG and BG so as to come up with a comprehensive data set that can be taken as input to model.Details are as follow.
  
 ### List of Data set and usage:
