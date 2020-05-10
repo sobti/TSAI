@@ -13,7 +13,7 @@ B. 400k fg_bg images- By randomly placing the FG images on the back ground 20 * 
 
 C. 400k depth images-As we have to collect Monocular depth images , I have used a existing model to extract the images. Input to the model is fg_bg images. I have nyu dataset for my prediction.
    400k mask images.
-   <<ALl the credit goes to  https://github.com/ialhashim/DenseDepth.git>>
+   <<ALl the credit goes to  [Depth](https://github.com/ialhashim/DenseDepth.git)
    
 ### How the data set are created :
 
