@@ -13,7 +13,7 @@ B. 400k fg_bg images- By randomly placing the FG images on the back ground 20 * 
 
 C. 400k depth images-As we have to collect Monocular depth images , I have used a existing model to extract the images. Input to the model is fg_bg images. I have nyu dataset for my prediction.
    400k mask images.
-   <<ALl the credit goes to  [Depth](https://github.com/ialhashim/DenseDepth.git)
+   ALl the credit goes to  [Depth](https://github.com/ialhashim/DenseDepth.git)
    
 ### How the data set are created :
 
@@ -39,10 +39,10 @@ D.   Big Challenge - Size of the image was as following - BG_FG = 9.3GB , Mask -
 E.  To create Depth images - Load the data set to Google colab. Do not unzip such large dataset on drive.<Strictly use colab drive>. It will definately crash the drive and 
     your account will be locked.
     
-    My Code : [DenseDepth](https://github.com/sobti/TSAI/blob/master/S14-15/DenseDepth.ipynb)
+   My Code : [DenseDepth](https://github.com/sobti/TSAI/blob/master/S14-15/DenseDepth.ipynb)
  
   
-    Download the Depth model from [Depth](https://github.com/ialhashim/DenseDepth.git)
+   Download the Depth model from [Depth](https://github.com/ialhashim/DenseDepth.git)
   
     Model requires the images in the multiple of 32. I have used 480,480,3 . Reason for such large image is to create clear depth images .
     To reduce the size , i have changed the Images back to grayscale after predicton of size (224,224,1).
