@@ -2,11 +2,11 @@
 
 To create model for depth and mask , here we are trying to create a custom dataset using using 100 forground and 100 back ground images.
 As collecting data from outside is tedious and time consuming , we have restricted ourself to existing model( to create depth images) and 
-python codes to ovelay FG and BG so as to come up with a comprehensive data set that can be taken as input to model.Details are as follow.
+python codes to overlay FG and BG so as to come up with a comprehensive data set that can be taken as input to model.Details are as follow.
  
 ### List of Data set and usage:
 
-A. 100 backgrounds images - I have choosed School premise as back ground images.<<All credit goes to Google images>>
+A. 100 backgrounds images - I have choosen School premises as back ground images.<<All credit goes to Google images>>
 
 B. 400k fg_bg images- By randomly placing the FG images on the back ground 20 * 2 times. I have created 400K images that will act as input to model
    <<Check code Masking_Complete.ipynb for refrence>>.
