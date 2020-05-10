@@ -15,7 +15,7 @@ C. 400k depth images-As we have to collect Monocular depth images , I have used 
    400k mask images.
    <<ALl the credit goes to  https://github.com/ialhashim/DenseDepth.git>>
    
-### How the data set are crested :
+### How the data set are created :
 
 A.    Back ground Images(BG) - Downloaded from internet < Resized to 224,224,3 >
 
@@ -38,6 +38,9 @@ D.   Big Challenge - Size of the image was as following - BG_FG = 9.3GB , Mask -
   
 E.  To create Depth images - Load the data set to Google colab. Do not unzip such large dataset on drive.<Strictly use colab drive>. It will definately crash the drive and 
     your account will be locked.
+    
+    My Code : https://github.com/sobti/TSAI/blob/master/S14-15/DenseDepth.ipynb
+ 
   
     Download the Depth model from <https://github.com/ialhashim/DenseDepth.git>
   
