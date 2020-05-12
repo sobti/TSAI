@@ -82,10 +82,15 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
   
  ### Dataset Link
   Link: https://drive.google.com/drive/folders/14KJxztt8PFbwP_tzJThO_P19ZP5fT-yo?usp=sharing
-  Size:
+  
+  #### Size:
+  
   Zip: 2.13G
+  
   Unzip: 13G
+  
   7z to zip the data
+  
   7zip is the best compression to zip the data and load the data. The commands to zip and extract the data.
 
 #### To zip the data
