@@ -92,6 +92,16 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
   7z to zip the data
   
   7zip is the best compression to zip the data and load the data. The commands to zip and extract the data.
+  
+  # Dataset Statistics
+
+|  | # | dim | mean | std | size | img |
+|---|---|---|---|---|---|---|
+| **bg** | 100 | (224,224,3) | (0.49836101, 0.50576683, 0.48631948) | (0.27918635, 0.27833673, 0.31944063) | 2.5M | <img src="bg.jpg"> |
+| **fg** | 100 | (100,100,4) | (0.10724495, 0.09750263, 0.09101623, 0.22677654) | (0.22944672, 0.2064019 , 0.19510001, 0.4096344 ) | 1M | <img src="fg.png"> |
+| **fg_bg** | 400k | (224,224,3) | (0.49641467, 0.50198746, 0.48275208) | (0.2798614 , 0.27848746, 0.31762387) | 9.8G |  <img src="fgbg.jpg"> |
+| **fg_bg_mask** | 400k | (224,224) | (0.05250582) | (0.22033702) | 1.7G | <img src="mask.jpg"> |
+| **fg_bg_depth** | 400k | (224,224) | (0.41627218) | (0.25850094) | 1.6G | <img src="dense.jpg"> |
 
 #### To zip the data
   !7z a outputfilename sourcetobezipped
