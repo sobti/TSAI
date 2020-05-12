@@ -49,12 +49,30 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
     
   ### sample images:
     
-  1. [Back Ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+   1. [Back Ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+     
+      <img src="Sample_Bg_Images.jpg">
+     
   2. [Sample Dataset](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_DataSet.jpg)
+  
+      <img src="Sample_DataSet.jpg">
+     
   3. [Sample Dense Depth](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Dense_Images.jpg)
+  
+     <img src="Sample_FgBg_Dense_Images.jpg">
+     
   4. [Sample FGBG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Images.jpg)
+  
+     <img src="Sample_FgBg_Images.jpg">
+     
   5. [Sample Mask](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg)
+  
+     <img src="Sample_FgBg_Masks_Images.jpg">
+     
   6. [Sample FG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Fg_Images.jpg)
+  
+     <img src="Sample_Fg_Images.jpg">
+  
   
   ### Python Files
   
