@@ -52,7 +52,7 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
     
     All the python files and sample images:
     
-    1. [Back ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+    1. https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg
   
 
   
