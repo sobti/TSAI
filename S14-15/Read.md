@@ -47,6 +47,9 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
     Model requires the images in the multiple of 32. I have used 480,480,3 . Reason for such large image is to create clear depth images .
     To reduce the size , i have changed the Images back to grayscale after predicton of size (224,224,1).
     
+    
+    
+    
     All the python files and sample images:
     
     1. [Back ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
