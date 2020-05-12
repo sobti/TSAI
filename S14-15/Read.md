@@ -60,4 +60,4 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
   
   1. [Stats](https://github.com/sobti/TSAI/blob/master/S14-15/stats.ipynb)
   2. [Exatract Images](https://github.com/sobti/TSAI/blob/master/S14-15/DatasetPreparation.ipynb)
-  3.[Dense Depth Model](https://github.com/sobti/TSAI/blob/master/S14-15/DenseDepth.ipynb)
+  3. [Dense Depth Model](https://github.com/sobti/TSAI/blob/master/S14-15/DenseDepth.ipynb)
