@@ -47,10 +47,17 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
     Model requires the images in the multiple of 32. I have used 480,480,3 . Reason for such large image is to create clear depth images .
     To reduce the size , i have changed the Images back to grayscale after predicton of size (224,224,1).
     
-  
-
-  
-   
-  All the python files and sample images:
+  ### sample images:
     
   1. [Back Ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+  2. [Sample Dataset](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_DataSet.jpg)
+  3. [Sample Dense Depth](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Dense_Images.jpg)
+  4. [Sample FGBG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Images.jpg)
+  5. [Sample Mask](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg)
+  6. [Sample FG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Fg_Images.jpg)
+  
+  ### Python Files
+  
+  1. [Stats](https://github.com/sobti/TSAI/blob/master/S14-15/stats.ipynb)
+  2. [Exatract Images](https://github.com/sobti/TSAI/blob/master/S14-15/DatasetPreparation.ipynb)
+  3.[Dense Depth Model](https://github.com/sobti/TSAI/blob/master/S14-15/DenseDepth.ipynb)
