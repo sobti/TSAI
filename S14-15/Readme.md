@@ -50,6 +50,9 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
   ### sample images:
     
   1. [Back Ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+     
+     <img src="Sample_Bg_Images.jpg">
+     
   2. [Sample Dataset](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_DataSet.jpg)
   3. [Sample Dense Depth](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Dense_Images.jpg)
   4. [Sample FGBG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Images.jpg)
@@ -61,3 +64,12 @@ E.  To create Depth images - Load the data set to Google colab. Do not unzip suc
   1. [Stats](https://github.com/sobti/TSAI/blob/master/S14-15/stats.ipynb)
   2. [Exatract Images](https://github.com/sobti/TSAI/blob/master/S14-15/DatasetPreparation.ipynb)
   3. [Dense Depth Model](https://github.com/sobti/TSAI/blob/master/S14-15/DenseDepth.ipynb)
+  
+### Dataset Link
+Link: https://drive.google.com/drive/folders/14KJxztt8PFbwP_tzJThO_P19ZP5fT-yo?usp=sharing Size: Zip: 2.13G Unzip: 13G 7z to zip the data 7zip is the best compression to zip the data and load the data. The commands to zip and extract the data.
+
+### To zip the data
+!7z a outputfilename sourcetobezipped
+
+### To extract the data
+!7z x sourcepath -o destpath
