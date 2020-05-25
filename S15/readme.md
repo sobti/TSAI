@@ -9,5 +9,9 @@
    - Copy the final weights to your dirctory :
    
    - Train the model as illustrated in python code :
+    
+   :+1: To save the time on training , It is highly recoomened to load the dataset in colab 
+   
+
    
    
