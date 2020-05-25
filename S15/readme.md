@@ -10,10 +10,6 @@
         - No of image in depth image: 400000
         
    **See sample image below** 
-
-   - After creating the dataset ,copy the entire directory (Modular Code and ZIP Dataset) to your drive:
-    
-     [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
    - Copy the final weights to your dirctory : **Depth_128_Final.pt**
      
@@ -115,14 +111,14 @@
    -  I have divided the dataset in 8 set of 50K each so that my model can see all the images atleast for few epocs as it is quite 
       difficult to train 400L images at one go.
       
-   -  The training was of incremental manner , after each iteration of 50K images , i saved the weight .And used same weight to train
+   -  The training was of incremental manner , after each iteration of 50K images , I saved the weight .And used same weight to train
        next lot.
        
    -  After creating final weight , i fed the Pretrained weight to 400K images for three epochs.
    
    - This method helped me to attain a Test set-  Average loss: 0.0278 in 3 Epochs.
    
-   - Just to **NOTE** , As training is done to small gray scale images , Depth Prediction clerity is compromised here .
+   - Just to **NOTE** , As training is done to small gray scale images , Depth Prediction clarity is compromised here .
   
   ### Final Model link : [Final Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
   
@@ -151,16 +147,16 @@
    ### Final output Images :
    
    
-  1. [Final Mask](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+  1. [Final Mask](https://github.com/sobti/TSAI/blob/master/S15/Final_Train_Mask.PNG)
      
-   <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg">
+   <img src="https://github.com/sobti/TSAI/blob/master/S15/Final_Train_Mask.PNG">
    
-  2. [Final Depth](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+  2. [Final Depth](https://github.com/sobti/TSAI/blob/master/S15/Final_Train_Dense.PNG)
      
-   <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg">
+   <img src="https://github.com/sobti/TSAI/blob/master/S15/Final_Train_Dense.PNG">
    
    
-   ### 
+  
    
    
    
