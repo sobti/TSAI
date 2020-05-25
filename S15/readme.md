@@ -74,6 +74,8 @@
        - https://github.com/sobti/TSAI/blob/master/S15/Combined_Step_training_(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
       
    - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if you are     intrested on those results
+   
+   - Modular code : https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF
            
            
             
