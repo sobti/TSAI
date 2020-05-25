@@ -101,14 +101,14 @@
    ## Training of 400K images :
    
    -  I have divided the dataset in 8 set of 50K each so that my model can see all the images atleast for few epocs as it is quite 
-      difficult to train 400L images at one go.
+      difficult to train 400K images at one go.
       
    -  The training was of incremental manner , after each iteration of 50K images , I saved the weight .And used same weight to train
        next lot.
        
-   -  After creating final weight , i fed the Pretrained weight to 400K images for three epochs.
+   -  **After creating final weight , i fed the Pretrained weight to 400K images for three epochs.**
    
-   - This method helped me to attain a Test set-  Average loss: 0.0278 in 3 Epochs.
+   - **This method helped me to attain a Test set-  Average loss: 0.0278 in 3 Epochs.**
    
    - Just to **NOTE** , As training is done to small gray scale images , Depth Prediction clarity is compromised here .
    
