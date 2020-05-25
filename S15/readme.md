@@ -122,8 +122,6 @@
   
   
   ### Final Weights-Trained on 400K images  : [Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
-      
-   - From above sharable drive, Copy **Depth_128_Final.pt**
    
   ### Sample Input Image:
   
