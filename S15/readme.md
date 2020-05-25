@@ -85,8 +85,6 @@
    - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if    intrested on those results
    
    - Modular code : [Modular Code](https://github.com/sobti/TSAI/tree/master/moduler)
-   
-     - Download all the .pt file from the shared drive
            
    ### Final Weight after training 50K images in a set(**This will be fed into final training for 400K images**) - 
    
