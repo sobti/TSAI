@@ -126,31 +126,25 @@
       
    - From above sharable drive, Copy **Depth_128_Final.pt**
    
-  ### Sample Image:
+  ### Sample Input Image:
   
   1. [Back Ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
      
    <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg">
      
-  2. [Sample Dataset](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_DataSet.jpg)
+  2. [Sample Dense Depth](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Dense_Images.jpg)
   
-     <img src="Sample_Dataset.jpg">
+     <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Dense_Images.jpg">
      
-  3. [Sample Dense Depth](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Dense_Images.jpg)
+  3. [Sample FGBG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Images.jpg)
   
-     <img src="Sample_FgBg_Dense_Images.jpg">
+     <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Images.jpg">
      
-  4. [Sample FGBG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Images.jpg)
+  4. [Sample Mask](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg)
   
-     <img src="Sample_FgBg_Images.jpg">
+     <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Images.jpg">
      
-  5. [Sample Mask](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg)
   
-     <img src="Sample_FgBg_Masks_Images.jpg">
-     
-  6. [Sample FG](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Fg_Images.jpg)
-  
-     <img src="Sample_Fg_Images.jpg">
   
           
            
