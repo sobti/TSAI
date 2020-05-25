@@ -17,23 +17,27 @@
    
    - Copy the final weights to your dirctory : **Depth_128_Final.pt**
      
-     [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+     [Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
    
    - Train the model as illustrated in python code :   
    
      [Final Code](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
+     
+   - Modular Code:
+      
+     [Module](https://github.com/sobti/TSAI/tree/master/moduler)
     
    :+1: To save the time on training , It is highly recommened to load the dataset in colab 
    
  ## Model : 
  
- To predict the mask and depth on 400K images , i have used combination of two model.
+ To predict the mask and depth on 400K images , I have used combination of two model.
  
    :+1:  Denset - https://pytorch.org/hub/pytorch_vision_densenet/
      
    :+1:  Unet - https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/
      
-  *Please refer my model in modlular code section given below * 	
+  *Please refer my model in modlular code section given below* 	
    
      - I have used Dense net to Predict the mask and Unet(with Bilinear upsampling) to predict the depth. In Densent model , only one 
         dense layer is used having skip connection with each layer. I have coustomised the UNET model to reduce the capacity so as to 
@@ -84,7 +88,7 @@
       
    - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if    intrested on those results
    
-   - Modular code : [Modular Code](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+   - Modular code : [Modular Code](https://github.com/sobti/TSAI/tree/master/moduler)
    
      - Download all the .pt file from the shared drive
            
@@ -122,7 +126,7 @@
   
   ### Final Model link : [Final Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
   
-  ### Final Weights : [Weights](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+  ### Final Weights : [Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
       
    - From above sharable drive, Copy **Depth_128_Final.pt**
    
