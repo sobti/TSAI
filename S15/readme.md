@@ -77,13 +77,18 @@
    
    - Modular code : https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF
            
-   1. Final Weight - In the above link , Download - Depth_128_5.pt
+   ### Final Weight - 
    
-   2. Zip Dataset -
+   - In the above link , Download - Depth_128_5.pt
+   
+   ### Zip Dataset -
    
          :point_right: Back Gound Image : bg.7z
+         
          :point_right: Back Gound Image : Densedepth.7z
+         
          :point_right: Back Gound Image : fgbg.7z
+         
          :point_right: Back Gound Image : fgbgmask.7z
           
            
