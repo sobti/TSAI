@@ -76,7 +76,15 @@
    - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if you are     intrested on those results
    
    - Modular code : https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF
-          :point_right: Back Gound Image : bg.7z
+           
+   1. Final Weight - In the above link , Download - Depth_128_5.pt
+   
+   2. Zip Dataset -
+   
+         :point_right: Back Gound Image : bg.7z
+         :point_right: Back Gound Image : Densedepth.7z
+         :point_right: Back Gound Image : fgbg.7z
+         :point_right: Back Gound Image : fgbgmask.7z
           
            
            
