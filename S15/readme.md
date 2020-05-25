@@ -33,7 +33,9 @@
      
    :+1:  Unet - https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/
      
-  *Please refer mymodel in modular code section given below* 	
+  *Please refer mymodel in modular code* -[Mymodel](https://github.com/sobti/TSAI/blob/master/moduler/mymodel.py)
+  
+ 
    
      - I have used Dense net to Predict the mask and Unet(with Bilinear upsampling) to predict the depth. In Densent model , only one 
         dense layer is used having skip connection with each layer. I have coustomised the UNET model to reduce the capacity so as to 
