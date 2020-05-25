@@ -128,9 +128,9 @@
    
   ### Sample Image:
   
-    1. [Back Ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+  1. [Back Ground Images](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
      
-     <img src="Sample_Bg_Images.jpg">
+   <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg">
      
   2. [Sample Dataset](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_DataSet.jpg)
   
