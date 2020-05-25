@@ -16,9 +16,9 @@
  
  To predict the mask and depth on 400K images , i have used combination of two model.
  
-     :+1:  Denset - https://pytorch.org/hub/pytorch_vision_densenet/
+   :+1:  Denset - https://pytorch.org/hub/pytorch_vision_densenet/
      
-     :+1:  Unet - https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/
+   :+1:  Unet - https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/
      
   *Please refer my model in :* 	
    
