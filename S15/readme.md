@@ -25,6 +25,28 @@
      - I have used Dense net to Predict the mask and Unet(with Bilinear upsampling) to predict the depth. In Densent model , only one 
         dense layer is used having skip connection with each layer. I have coustomised the UNET model to reduce the capacity so as to 
         fit in the Colab CUDA.
+    
+   ###  Multiple Attempts : J
+   *just to NOTE , These are RAW attempts .Final model must be cosidered for usage*
+       
+   - Try 1 : Dense net to predict maak: https://github.com/sobti/TSAI/blob/master/S15/3rd_Try_Mask_Densenet_Model.ipynb
+     
+           Model - Densenet 
+           Image size - 64*64
+           Loss - BCEwithLOGIT loss
+           Optimizer - SGD 
+           Model is trained on 
+           
+   - Try 2  : https://github.com/sobti/TSAI/blob/master/S15/4rth_Try_Mask_Densenet_Model.ipynb
+                
+           Model - Densenet + UNET
+           Image Size - 64*64
+           Loss - BCEwithLOGIT loss
+           Optimizer - SGD 
+           Model is trained on 
+            
+         
+    
 
    
    
