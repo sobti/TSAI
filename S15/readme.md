@@ -8,9 +8,13 @@
         - No of image in mask image: 400000
         - No of image in depth image: 400000
 
-   - After creating the dataset copy the Modlular code from to yout directory:
+   - After creating the dataset copy the Modular code  to your directory:
+    
+    [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
-   - Copy the final weights to your dirctory :
+   - Copy the final weights to your dirctory : Depth_128_5.pt
+     
+     [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
    - Train the model as illustrated in python code :
     
