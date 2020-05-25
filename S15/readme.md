@@ -19,7 +19,7 @@
    
    - Train the model as illustrated in python code :   
    
-    [Final Code](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
+     [Final Code](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
     
    :+1: To save the time on training , It is highly recommened to load the dataset in colab 
    
