@@ -10,7 +10,7 @@
 
    - After creating the dataset copy the Modular code  to your directory:
     
-    [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+     [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
    - Copy the final weights to your dirctory : Depth_128_5.pt
      
@@ -83,9 +83,11 @@
            
    ### Final Weight - 
    
+   - [Final weight](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+   
    - In the above link , Download - Depth_128_5.pt
    
-   ### Zip Dataset -
+   ### Zip Dataset - [Dataset](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
          :point_right: Back Gound Image : bg.7z
          
