@@ -17,11 +17,15 @@
    
    - Copy the final weights to your dirctory : **Depth_128_Final.pt**
      
-     [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+     [Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
    
    - Train the model as illustrated in python code :   
    
      [Final Code](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
+     
+   - Modular Code:
+      
+     [Module](https://github.com/sobti/TSAI/tree/master/moduler)
     
    :+1: To save the time on training , It is highly recommened to load the dataset in colab 
    
