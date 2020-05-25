@@ -85,14 +85,6 @@
    - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if    intrested on those results
    
    - Modular code : [Modular Code](https://github.com/sobti/TSAI/tree/master/moduler)
-           
-   ### Final Weight after training 50K images in a set(**This will be fed into final training for 400K images**) - 
-   
-   - [Final weight for 50K sets](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
-   
-   - In the above link , Download - Depth_128_5.pt
-   
-   * This weight is best suited for images having building as background and object as foreground .Please refer dataset (mentioned below) *
    
    ### Zip Dataset - [Dataset](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
@@ -117,10 +109,19 @@
    - This method helped me to attain a Test set-  Average loss: 0.0278 in 3 Epochs.
    
    - Just to **NOTE** , As training is done to small gray scale images , Depth Prediction clarity is compromised here .
+   
+   ### Final Weight after training 50K images in a 8 sets(**This will be fed into final training for 400K images**) - 
+   
+   - [Final weight for 50K sets](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+   
+   - In the above link , Download - Depth_128_5.pt
+   
+   * This weight is best suited for images having building as background and object as foreground .Please refer dataset (mentioned below) *
   
   ### Final Model link : [Final Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
   
-  ### Final Weights : [Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
+  
+  ### Final Weights-Trained on 400K images  : [Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
       
    - From above sharable drive, Copy **Depth_128_Final.pt**
    
