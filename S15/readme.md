@@ -145,7 +145,8 @@
      <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg">
      
    ### Final output Images :
-   
+    
+   Refer code : [code]((https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
    
   1. [Final Mask](https://github.com/sobti/TSAI/blob/master/S15/Final_Train_Mask.PNG)
      
