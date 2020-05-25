@@ -148,6 +148,24 @@
   
      <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg">
      
+   ### Final output Images :
+   
+   
+  1. [Final Mask](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+     
+   <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg">
+   
+  2. [Final Depth](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg)
+     
+   <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_Bg_Images.jpg">
+   
+   
+   ### 
+   
+   
+   
+   
+     
   
   
           
