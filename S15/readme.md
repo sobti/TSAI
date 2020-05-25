@@ -3,10 +3,10 @@
 1. To make model up and running in your machine ,please follow below instruction :
 
    - Follow the data set creation approch from the following link : https://github.com/sobti/TSAI/blob/master/S14-15/Readme.md
-         No of data in fgbg list: 400000
-         No of data in bg list: 400000
-         No of image in mask image: 400000
-         No of image in depth image: 400000
+        - No of data in fgbg list: 400000
+        - No of data in bg list: 400000
+        - No of image in mask image: 400000
+        - No of image in depth image: 400000
 
    - After creating the dataset copy the Modlular code from to yout directory:
    
