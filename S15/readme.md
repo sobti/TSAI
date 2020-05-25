@@ -76,8 +76,8 @@
            Loss - RMSE loss
            Optimizer - RMSProp
            
-   - Attempt 6 - To get the appropriate weight that can be fed into 400L images , i trained the model on 128*128 with 
-                  dataset batches of 50K images . Few codes are below for reference :
+   - Attempt 6 - To get the appropriate weight that can be fed into model running on 400K images , i trained the model on 128*128 with 
+                  dataset haaving batches of 50K images(8 sets) . Few codes are below for reference :
                   
        - https://github.com/sobti/TSAI/blob/master/S15/Combined(3.5L)_1st_Try_Mask_Densenet_Model.ipynb
        - https://github.com/sobti/TSAI/blob/master/S15/Combined(last%2050K)_1st_Try_Mask_Densenet_Model.ipynb
