@@ -90,11 +90,11 @@
    
    :point_right: Back Gound Image : bg.7z
          
-   :point_right: Back Gound Image : Densedepth.7z
+   :point_right: Dense Depth Image : Densedepth.7z
          
-   :point_right: Back Gound Image : fgbg.7z
+   :point_right: Fore Ground -Back Gound Image : fgbg.7z
          
-   :point_right: Back Gound Image : fgbgmask.7z
+   :point_right: Mask Image : fgbgmask.7z
          
    ## Training of 400K images :
    
