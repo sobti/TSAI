@@ -28,13 +28,13 @@
      
    :+1:  Unet - https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/
      
-  *Please refer my model in :* 	
+  *Please refer my model in modlular code section given below * 	
    
      - I have used Dense net to Predict the mask and Unet(with Bilinear upsampling) to predict the depth. In Densent model , only one 
         dense layer is used having skip connection with each layer. I have coustomised the UNET model to reduce the capacity so as to 
         fit in the Colab CUDA.
     
-   ###  Multiple Attempts : J
+   ###  Multiple Attempts : 
    *just to NOTE , These are RAW attempts .Final model must be cosidered for usage*
        
    - Attempt 1 : Dense net to predict maak: https://github.com/sobti/TSAI/blob/master/S15/3rd_Try_Mask_Densenet_Model.ipynb
@@ -69,15 +69,15 @@
            Loss - RMSE loss
            Optimizer - RMSProp
            
-   - Attempt 6 - To get the appropriate weight that can be fed into 400L images , i gave trained the model on 128*128 with 
-                  dataset batch of 50K images . Few codes are below for reference :
+   - Attempt 6 - To get the appropriate weight that can be fed into 400L images , i trained the model on 128*128 with 
+                  dataset batches of 50K images . Few codes are below for reference :
                   
        - https://github.com/sobti/TSAI/blob/master/S15/Combined(3.5L)_1st_Try_Mask_Densenet_Model.ipynb
        - https://github.com/sobti/TSAI/blob/master/S15/Combined(last%2050K)_1st_Try_Mask_Densenet_Model.ipynb
        - https://github.com/sobti/TSAI/blob/master/S15/Combined(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
        - https://github.com/sobti/TSAI/blob/master/S15/Combined_Step_training_(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
       
-   - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if you are     intrested on those results
+   - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if    intrested on those results
    
    - Modular code : [Modular Code](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
@@ -89,6 +89,8 @@
    
    - In the above link , Download - Depth_128_5.pt
    
+   * This weight is best suited for images having building as background and object as foreground .Please refer dataset (mentioned below) for refernece *
+   
    ### Zip Dataset - [Dataset](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
          :point_right: Back Gound Image : bg.7z
@@ -98,6 +100,16 @@
          :point_right: Back Gound Image : fgbg.7z
          
          :point_right: Back Gound Image : fgbgmask.7z
+         
+   ## Training of 400K images :
+   
+   -  I have divided the dataset in 8 set of 50K each so that my model can see all the images atleast for few epocs as it is quite 
+      impossible to train 400L images at one go.
+      
+   -  The training was of incremental manner , after each iteration of 50K images , i saved the weight .And used same weight to train
+       next lot.
+       
+   -  After creating final weight , i fed the Pretrained weight to 400K images for atleast one epoch.
           
            
            
