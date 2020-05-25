@@ -142,7 +142,7 @@
      
   4. [Sample Mask](https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg)
   
-     <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg.jpg">
+     <img src="https://github.com/sobti/TSAI/blob/master/S14-15/Sample_FgBg_Masks_Images.jpg">
      
   
   
