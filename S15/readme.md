@@ -8,7 +8,7 @@
         - No of image in mask image: 400000
         - No of image in depth image: 400000
 
-   - After creating the dataset copy the Modular code  to your directory:
+   - After creating the dataset ,copy the entire directory Modular to your drive:
     
      [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
@@ -16,7 +16,9 @@
      
      [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
-   - Train the model as illustrated in python code :[Final Code](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb
+   - Train the model as illustrated in python code :   
+   
+   [Final Code](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb
     
    :+1: To save the time on training , It is highly recommened to load the dataset in colab 
    
