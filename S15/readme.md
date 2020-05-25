@@ -111,7 +111,12 @@
        
    -  After creating final weight , i fed the Pretrained weight to 400K images for three epochs.
   
-  ### Final Model link : [Fibal Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
+  ### Final Model link : [Final Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
+  
+  ### Final Weights : [Weights](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+      
+   - From above sharable drive, Copy **Depth_128_Final.pt**
+  
           
            
            
