@@ -31,13 +31,13 @@
    
  ## Model : 
  
- To predict the mask and depth on 400K images , i have used combination of two model.
+ To predict the mask and depth on 400K images , I have used combination of two model.
  
    :+1:  Denset - https://pytorch.org/hub/pytorch_vision_densenet/
      
    :+1:  Unet - https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/
      
-  *Please refer my model in modlular code section given below * 	
+  *Please refer my model in modlular code section given below* 	
    
      - I have used Dense net to Predict the mask and Unet(with Bilinear upsampling) to predict the depth. In Densent model , only one 
         dense layer is used having skip connection with each layer. I have coustomised the UNET model to reduce the capacity so as to 
