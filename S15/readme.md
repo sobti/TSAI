@@ -76,6 +76,8 @@
    - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if you are     intrested on those results
    
    - Modular code : https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF
+          :point_right: Back Gound Image : bg.7z
+          
            
            
             
