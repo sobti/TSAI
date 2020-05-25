@@ -83,13 +83,13 @@
    
      - Download all the .pt file from the shared drive
            
-   ### Final Weight after training 50K images in a set(*This will be fed into final training set of 400K images*) - 
+   ### Final Weight after training 50K images in a set(**This will be fed into final training for 400K images**) - 
    
    - [Final weight for 50K sets](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
    - In the above link , Download - Depth_128_5.pt
    
-   * This weight is best suited for images having building as background and object as foreground .Please refer dataset (mentioned below) for refernece *
+   * This weight is best suited for images having building as background and object as foreground .Please refer dataset (mentioned below) *
    
    ### Zip Dataset - [Dataset](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
