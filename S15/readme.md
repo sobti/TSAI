@@ -83,9 +83,9 @@
    
      - Download all the .pt file from the shared drive
            
-   ### Final Weight - 
+   ### Final Weight after training 50K images in a set(*This will be fed into final training set of 400K images) - 
    
-   - [Final weight](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+   - [Final weight for 50K sets](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
    - In the above link , Download - Depth_128_5.pt
    
