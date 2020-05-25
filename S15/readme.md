@@ -126,7 +126,7 @@
   
   ### Final Model link : [Final Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
   
-  ### Final Weights : [Weights]([Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
+  ### Final Weights : [Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
       
    - From above sharable drive, Copy **Depth_128_Final.pt**
    
