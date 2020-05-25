@@ -9,7 +9,7 @@
         - No of image in mask image: 400000
         - No of image in depth image: 400000
 
-   - After creating the dataset ,copy the entire directory Modular to your drive:
+   - After creating the dataset ,copy the entire directory (Modular Code and ZIP Dataset) to your drive:
     
      [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
