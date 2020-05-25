@@ -88,7 +88,7 @@
       
    - There are several other attempt that i tried such as with Adam optimisor and complete UNET models . Please mail me , if    intrested on those results
    
-   - Modular code : [Modular Code](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+   - Modular code : [Modular Code](https://github.com/sobti/TSAI/tree/master/moduler)
    
      - Download all the .pt file from the shared drive
            
@@ -126,7 +126,7 @@
   
   ### Final Model link : [Final Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
   
-  ### Final Weights : [Weights](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
+  ### Final Weights : [Weights]([Final Weights](https://github.com/sobti/TSAI/blob/master/moduler/Depth_128_final.pt)
       
    - From above sharable drive, Copy **Depth_128_Final.pt**
    
