@@ -33,21 +33,47 @@
    ###  Multiple Attempts : J
    *just to NOTE , These are RAW attempts .Final model must be cosidered for usage*
        
-   - Try 1 : Dense net to predict maak: https://github.com/sobti/TSAI/blob/master/S15/3rd_Try_Mask_Densenet_Model.ipynb
+   - Attempt 1 : Dense net to predict maak: https://github.com/sobti/TSAI/blob/master/S15/3rd_Try_Mask_Densenet_Model.ipynb
      
            Model - Densenet 
-           Image size - 64*64
            Loss - BCEwithLOGIT loss
            Optimizer - SGD 
-           Model is trained on 
            
-   - Try 2  : https://github.com/sobti/TSAI/blob/master/S15/4rth_Try_Mask_Densenet_Model.ipynb
+           
+   - Attempt 2  : https://github.com/sobti/TSAI/blob/master/S15/4rth_Try_Mask_Densenet_Model.ipynb
                 
            Model - Densenet + UNET
-           Image Size - 64*64
            Loss - BCEwithLOGIT loss
            Optimizer - SGD 
-           Model is trained on 
+           
+           
+   - Attempt 3  : https://github.com/sobti/TSAI/blob/master/S15/MSE_5th_Try_Depth_Densenet_Model.ipynb
+   
+           Model - Densenet + UNET
+           Loss - MSE loss
+           Optimizer - SGD
+           
+   - Attempt 4  : https://github.com/sobti/TSAI/blob/master/S15/MSE_5th_Try_Depth_Densenet_Model.ipynb
+   
+           Model - Densenet + UNET
+           Loss - MSE loss
+           Optimizer - SGD
+           
+   - Attempt 5 : https://github.com/sobti/TSAI/blob/master/S15/RMSE_Combined_1st_Try_Mask_Densenet_Model.ipynb
+   
+           Model - Densenet + UNET
+           Loss - RMSE loss
+           Optimizer - RMSProp
+           
+   - Attempt 6 - To get the appropriate weight that can be fed into 400L images , i gave trained the model on 128*128 with 
+                  dataset batch of 50K images . Few codes are below for refernce :
+                  
+                  https://github.com/sobti/TSAI/blob/master/S15/Combined(3.5L)_1st_Try_Mask_Densenet_Model.ipynb
+                  https://github.com/sobti/TSAI/blob/master/S15/Combined(last%2050K)_1st_Try_Mask_Densenet_Model.ipynb
+                  https://github.com/sobti/TSAI/blob/master/S15/Combined(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
+                  https://github.com/sobti/TSAI/blob/master/S15/Combined_Step_training_(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
+           
+           
             
          
     
