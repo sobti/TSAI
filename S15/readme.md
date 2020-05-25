@@ -12,11 +12,11 @@
     
      [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
-   - Copy the final weights to your dirctory : Depth_128_5.pt
+   - Copy the final weights to your dirctory : **Depth_128_Final.pt**
      
      [Google Drive](https://drive.google.com/open?id=1HNaIk27unwtBCykzPh5lTsIaOKKkMAGF)
    
-   - Train the model as illustrated in python code :
+   - Train the model as illustrated in python code :[Final Code](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb
     
    :+1: To save the time on training , It is highly recommened to load the dataset in colab 
    
