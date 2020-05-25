@@ -40,7 +40,7 @@
         fit in the Colab CUDA.
     
    ###  Multiple Attempts : 
-   *just to NOTE , These are RAW attempts .Final model must be cosidered for usage*
+   *just to NOTE , These are RAW attempts .Final model must be considered for usage*
        
    - Attempt 1 : Dense net to predict mask: https://github.com/sobti/TSAI/blob/master/S15/3rd_Try_Mask_Densenet_Model.ipynb
      
