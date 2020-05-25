@@ -68,10 +68,10 @@
    - Attempt 6 - To get the appropriate weight that can be fed into 400L images , i gave trained the model on 128*128 with 
                   dataset batch of 50K images . Few codes are below for refernce :
                   
-                  https://github.com/sobti/TSAI/blob/master/S15/Combined(3.5L)_1st_Try_Mask_Densenet_Model.ipynb
-                  https://github.com/sobti/TSAI/blob/master/S15/Combined(last%2050K)_1st_Try_Mask_Densenet_Model.ipynb
-                  https://github.com/sobti/TSAI/blob/master/S15/Combined(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
-                  https://github.com/sobti/TSAI/blob/master/S15/Combined_Step_training_(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
+       - https://github.com/sobti/TSAI/blob/master/S15/Combined(3.5L)_1st_Try_Mask_Densenet_Model.ipynb
+       - https://github.com/sobti/TSAI/blob/master/S15/Combined(last%2050K)_1st_Try_Mask_Densenet_Model.ipynb
+       - https://github.com/sobti/TSAI/blob/master/S15/Combined(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
+       - https://github.com/sobti/TSAI/blob/master/S15/Combined_Step_training_(64%2C64)_1st_Try_Mask_Densenet_Model.ipynb
            
            
             
