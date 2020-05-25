@@ -109,7 +109,9 @@
    -  The training was of incremental manner , after each iteration of 50K images , i saved the weight .And used same weight to train
        next lot.
        
-   -  After creating final weight , i fed the Pretrained weight to 400K images for atleast one epoch.
+   -  After creating final weight , i fed the Pretrained weight to 400K images for three epochs.
+  
+  ### Final Model link : [Fibal Model](https://github.com/sobti/TSAI/blob/master/S15/Final_Combined(128%2C128)_400k_Train_Model.ipynb)
           
            
            
