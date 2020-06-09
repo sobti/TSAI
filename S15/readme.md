@@ -22,6 +22,10 @@
    - Modular Code:
       
      [Module](https://github.com/sobti/TSAI/tree/master/moduler)
+     
+   - Depth Prediction using ADAM and SSIM loss (Best Depth Prediction) (Special Mention)
+
+     [Depth](https://github.com/sobti/TSAI/blob/master/S15/ResUnet_Model_SSIM_ADAM.ipynb) 
     
    :+1: To save the time on training , It is highly recommened to load the dataset in colab 
    
