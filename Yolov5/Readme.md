@@ -61,7 +61,7 @@ Yolo family is added one more dimension in their closet .Yolov5 is out .Thanks t
    
    youtube : https://www.youtube.com/watch?v=VdjfWacnT0I
    
-   **Yolov5 is very fast - When i had trained 500 images for 300 epocs with Yolov3 , it took 1.20 sec for a epoch but with Yolov5 , i am     able to trained same in 22 sec per epoch ,that is 300 epoc in less the 2 hrs**
+   **Yolov5 is very fast - When i had trained 500 images for 300 epocs with Yolov3 , it took 1 min 20 sec for a epoch but with Yolov5 , i am     able to trained same in 22 sec per epoch ,that is 300 epoc in less the 2 hrs**
    
    **Yolov5 can predict 140 FPS . With limited GPU, I was able to achieve 110 FPS(APPX) .AMAAAZZZINNGGGG Speed**
     
