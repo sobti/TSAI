@@ -57,6 +57,8 @@ Yolo family is added one more dimension in their closet .Yolov5 is out .Thanks t
           dataset(input folder) ---yolov5(main folder)----inference(output folder)---weights(last.pt) ->at same level
                                  -subfolder for yolov5
     
+   Link : https://github.com/sobti/TSAI/blob/master/Yolov5/Yolov5_custom.ipynb
+    
 
  
  
