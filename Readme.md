@@ -17,11 +17,11 @@ Yolov family is added one more dimension in their closet .Yolov5 is out .Thanks 
 
   1. clone the repo:
   
-   !git clone https://github.com/ultralytics/yolov5  # clone repo
+         https://github.com/ultralytics/yolov5  
   
   2. Download the weights from below folder:
   
-   https://drive.google.com/drive/folders/1Drs_Aiu7xx6S-ix95f9kNsA6ueKRpN2J
+         https://drive.google.com/drive/folders/1Drs_Aiu7xx6S-ix95f9kNsA6ueKRpN2J
    
   3. Create a "weights" folder and put the downloaded weight.
   
@@ -43,7 +43,7 @@ Yolov family is added one more dimension in their closet .Yolov5 is out .Thanks 
          
    7. Create "dataset" folder with images and labels as subfolder ( In images folder you can either put actual images or .txt file that        contains image location.  
    
-   8. Run below command:
+   8. Run below command for training:
    
              ! python yolov5/train.py --img 640 --batch 16 --epochs 300 --data ./yolov5/data/custom128.yaml --cfg  
              ./yolov5/models/yolov5s.yaml --weights './yolov5/weights/yolov5s.pt'       
