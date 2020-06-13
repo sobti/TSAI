@@ -40,9 +40,13 @@ Yolov family is added one more dimension in their closet .Yolov5 is out .Thanks 
 
          # class names
          names: ['spongebob']
-   7. Create "dataset" folder with images and labels as subfolder ( In images folder you can either put actual images or .txt file that        contains image location.      
-   8. Run :! python yolov5/train.py --img 640 --batch 16 --epochs 300 --data ./yolov5/data/custom128.yaml --cfg  
-            ./yolov5/models/yolov5s.yaml --weights './yolov5/weights/yolov5s.pt'       
+         
+   7. Create "dataset" folder with images and labels as subfolder ( In images folder you can either put actual images or .txt file that        contains image location.  
+   
+   8. Run below command:
+   
+             ! python yolov5/train.py --img 640 --batch 16 --epochs 300 --data ./yolov5/data/custom128.yaml --cfg  
+             ./yolov5/models/yolov5s.yaml --weights './yolov5/weights/yolov5s.pt'       
          
    8. Create a folder "inference " with images and output ( you can put images or video inside the images folder to detect).
    
