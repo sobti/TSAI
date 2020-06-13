@@ -50,7 +50,7 @@ Yolo family is added one more dimension in their closet .Yolov5 is out .Thanks t
              ! python yolov5/train.py --img 640 --batch 16 --epochs 300 --data ./yolov5/data/custom128.yaml --cfg  
              ./yolov5/models/yolov5s.yaml --weights './yolov5/weights/yolov5s.pt'       
          
-   8. Create a folder "inference " with images and output ( you can put images or video inside the images folder to detect).
+   8. Create a folder "inference " with images and output as subfolder( you can put images or video inside the images folder to detect).
    
    9. folder structure will be some thning like this.< you can use your own model sturcture .i prefered below one)  
    
