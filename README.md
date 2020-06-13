@@ -11,5 +11,5 @@ Some of the modules:
 
 - S15 - Depth and Mask Prediction.
 
-- Yolov5 - YOLOv3 on custom data.
+- Yolov5 - YOLOv5 on custom data.
 
