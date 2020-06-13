@@ -1,4 +1,4 @@
-## Train Cutsom data in Yolov5:
+## Train Cutsom data with Yolov5:
 
 Yolo family is added one more dimension in their closet .Yolov5 is out .Thanks to [Ultralytics](https://github.com/ultralytics/yolov5) team to put all the repository in order.
 
