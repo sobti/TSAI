@@ -1,6 +1,8 @@
 ## Train Cutsom data in Yolov5:
 
-Yolov family is added one more dimension in their closet .Yolov5 is out .Thanks to Ultralytics to put all the repository in order.
+Yolo family is added one more dimension in their closet .Yolov5 is out .Thanks to **Ultralytics** team to put all the repository in order.
+
+### All credit goes to **Ultralytics** team
 
 ### Steps needed to train Cutsom data on volov5
 
