@@ -4,7 +4,7 @@ Yolo family is added one more dimension in their closet .Yolov5 is out .Thanks t
 
 ### All credit goes to **Ultralytics** team
 
-### Steps needed to train Cutsom data on volov5
+### Steps needed to train Cutsom data on Yolov5
 
 #### Step 1:
 - Create Custom dataset
