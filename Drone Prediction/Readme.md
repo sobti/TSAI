@@ -15,6 +15,8 @@ Usually deep neural network requires fixed size input images. This is obtained m
 
 - It requires custom Dataloader - Collate_Fn needs to be customised to create data loader of variable size images as dataloader stacks similiar size images.
 
+## yet to explore part:
+
 - ** I have to make batch size = 1 for variable size images ( Needs to explore more on it) 
 
-- facing Cuda out of memory as few images are very large .Advisable to keep images in certain range.
+-  facing Cuda out of memory as few images are very large .Advisable to keep images in certain range.
