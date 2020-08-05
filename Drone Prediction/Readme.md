@@ -48,6 +48,8 @@ Usually deep neural network requires fixed size input images. This is obtained m
            return data
  
  - As mobilenet goes very deep such that image of 224 * 224 squeezes to 7 * 7 .BE alert in feeding smaller dimension images as maxpooling in Sppnet can cause issue.
+ 
+ - Sometimes without having control on images can cause out of memory issue as image going can be having higher dimensions.
 
 ## yet to explore part:
 
