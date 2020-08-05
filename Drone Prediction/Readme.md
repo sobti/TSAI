@@ -46,6 +46,8 @@ Usually deep neural network requires fixed size input images. This is obtained m
            data['labels'] = [item['labels'] for item in batch]
            data['labels'] = torch.LongTensor(data['labels'])
            return data
+ 
+ - As mobilenet goes very deep such that image of 224*224 squeezes to 7*7 .BE alert in feeding smaller dimension images as maxpooling in Sppnet can cause issue.
 
 ## yet to explore part:
 
