@@ -14,8 +14,8 @@ Usually deep neural network requires fixed size input images. This is obtained m
 - Sppnet is mostly implement before FC layer.
 
          model1 = torch.hub.load('pytorch/vision:v0.6.0', 'mobilenet_v2', pretrained=True)
-         class sppmob(nn.Module):
-       def __init__(self):
+      class sppmob(nn.Module):
+        def __init__(self):
            super(sppmob, self).__init__()
            count=1 
            for child in model1.children(): 
@@ -27,11 +27,13 @@ Usually deep neural network requires fixed size input images. This is obtained m
            self.lin=nn.Linear(in_features=26880,out_features=4,bias=True)    
 
 
-       def forward(self, x):
+        def forward(self, x):
            x=self.conv1(x)
            spp=spatial_pyramid_pool(x,1,[int(x.size()[2]),int(x.size()[3])],[4,2,1])
            x=self.lin(spp)
            return x
+           
+  in_features=26880 -> fetaures out from Sppnet for each images
 
 - It requires custom Dataloader - Collate_Fn needs to be customised to create data loader of variable size images as dataloader stacks similiar size images.
 
