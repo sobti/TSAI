@@ -3,7 +3,7 @@
   
  :point_right:  Refernce code  :  [Sppnet](https://github.com/yueruchen/sppnet-pytorch/blob/master/spp_layer.py)
  
- :point_right: SPPnet with mobilenet Refernce code :[mobile-spp](https://github.com/sobti/TSAI/blob/master/Drone%20Prediction/MobilenetV2_Model.ipynb)
+ :point_right: SPPnet with mobilenet Refernce code :[mobile-spp](https://github.com/sobti/TSAI/blob/master/Drone%20Prediction/MobilenetV2_SPP-Net_Model.ipynb)
  
 ## Sppnet:(Taken from paper)
 
