@@ -51,7 +51,9 @@ Usually deep neural network requires fixed size input images. This is obtained m
  
   - one will face issue : "RuntimeError: invalid argument 2: pad should be smaller than half of kernel size, but got padW = 3, padH = 3, kW = 4, kH = 4" - Do padding in SPP   before applying maxpooling.
                          
-             [Padding before pooling mobile-spp](https://github.com/sobti/TSAI/blob/master/Drone%20Prediction/MobilenetV2_SPP-Net_Model.ipynb)
+      [Padding before pooling mobile-spp](https://github.com/sobti/TSAI/blob/master/Drone%20Prediction/MobilenetV2_SPP-Net_Model.ipynb)
+      
+      [Padding with pooling mobile-spp](https://github.com/sobti/TSAI/blob/master/Drone%20Prediction/MobilenetV2_Model.ipynb)
 
 ## yet to explore part:
 
