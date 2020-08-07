@@ -49,10 +49,11 @@ Usually deep neural network requires fixed size input images. This is obtained m
  
  - As mobilenet goes very deep such that image of 224 * 224 squeezes to 7 * 7 .BE alert in feeding smaller dimension images as maxpooling in Sppnet can cause issue.
  
- - Sometimes without having control on images can cause out of memory issue as image going can be having higher dimensions.
+  - one will face issue : "RuntimeError: invalid argument 2: pad should be smaller than half of kernel size, but got padW = 3, padH = 3, kW = 4, kH = 4" - Do padding in SPP   before applying maxpooling.
+                         
+             [Padding before pooling mobile-spp](https://github.com/sobti/TSAI/blob/master/Drone%20Prediction/MobilenetV2_SPP-Net_Model.ipynb)
 
 ## yet to explore part:
 
 - ** I have to make batch size = 1 for variable size images ( Needs to explore more on it) 
 
--  facing Cuda out of memory as few images are very large .Advisable to keep images in certain range.
