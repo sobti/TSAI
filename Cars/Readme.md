@@ -1,1 +1,1 @@
-All Creddit to https://github.com/eriklindernoren/PyTorch-GAN
+All Credits to https://github.com/eriklindernoren/PyTorch-GAN
