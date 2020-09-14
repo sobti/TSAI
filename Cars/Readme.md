@@ -4,4 +4,9 @@ A framework for estimating generative models via an adversarial process, in whic
      ![Alt text](https://github.com/sobti/TSAI/blob/master/Cars/GAN.PNG?raw=true "Optional Title")
 
   PIC Credit:[KDnuggets](https://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html)
+  
+  ## DCGAN:[DCGAN Paper](https://arxiv.org/pdf/1511.06434.pdf)
+  
+
+  
 
