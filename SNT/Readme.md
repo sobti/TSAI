@@ -26,4 +26,6 @@ Attention-  Attention models, or attention mechanisms, are input processing tech
  
  Data Set used - Flickr8K
  
+ Output Generated is not that great as we are using Flickr8k to train model. Use MSCOCO or othre data set to train the model.
+ 
                                                                
