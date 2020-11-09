@@ -12,8 +12,13 @@ We can use an encoder to automatically extract image features, and then use LSTM
 ##### Show Attend and tell : https://arxiv.org/abs/1502.03044
 It is an extension, which introduces a visual attention mechanism based on the Encoder-Decoder structure, which can dynamically focus on the salient regions of the image during the process of generating descriptions in Decoder.
 
-This model also uses a CNN as Encoder to extract L vectors of K dimensions from the image, each vector corresponds to a portion of the image. But unlike the SNT model, this model uses the underlying convolutional layer output instead of the final fully connected layer output as the image feature vector:
-                                                               a={a1,a2,...,aL},ai∈RK
-In the decoder part, SANT also uses LSTM for description generation. But this model needs to use the image-based feature vector a for each step t to generate the context vector.
-                                                               zt=∑Li=1αtiai
+##### Architecture :
+
+Encoder-Decoder architecture- Typically, a model that generates sequences will use an Encoder to encode the input into a fixed form and a Decoder to decode it, word by word, into a sequence.
+
+ -   Encoder - Encoder Architecture is used to obtain the feature of image provided . The features added with embedding is fed to Decoder.
+ -   Decoder - This is usually  LSTM cells used to generate the description.
+
+Attention-  Attention models, or attention mechanisms, are input processing techniques for neural networks that allows the network to focus on specific aspects of a complex input, one at a time until the entire dataset is categorized.
+ 
                                                                
