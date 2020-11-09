@@ -20,5 +20,8 @@ Encoder-Decoder architecture- Typically, a model that generates sequences will u
  -   Decoder - This is usually  LSTM cells used to generate the description.
 
 Attention-  Attention models, or attention mechanisms, are input processing techniques for neural networks that allows the network to focus on specific aspects of a complex input, one at a time until the entire dataset is categorized.
+
+### Data Split : https://cs.stanford.edu/people/karpathy/deepimagesent/
+ Data Split can be used from above link.
  
                                                                
