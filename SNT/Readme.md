@@ -23,6 +23,7 @@ Attention-  Attention models, or attention mechanisms, are input processing tech
 
 ### Data Split : https://cs.stanford.edu/people/karpathy/deepimagesent/
  Data Split can be used from above link.
+ 
  Data Set used - Flickr8K
  
                                                                
