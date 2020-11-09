@@ -16,7 +16,7 @@ It is an extension, which introduces a visual attention mechanism based on the E
 
 Encoder-Decoder architecture- Typically, a model that generates sequences will use an Encoder to encode the input into a fixed form and a Decoder to decode it, word by word, into a sequence.
 
- -   Encoder - Encoder Architecture is used to obtain the feature of image provided . The features added with embedding is fed to Decoder.
+ -   Encoder - Encoder Architecture is used to obtain the feature of image provided . The features added with embedding is fed to Decoder. We have used VGG19
  -   Decoder - This is usually  LSTM cells used to generate the description.
 
 Attention-  Attention models, or attention mechanisms, are input processing techniques for neural networks that allows the network to focus on specific aspects of a complex input, one at a time until the entire dataset is categorized.
